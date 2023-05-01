@@ -1,0 +1,28 @@
+[
+      {
+        "id": 1,
+        "name": "Restaurante La Palma",
+        "address": "Calle 10 #15-20",
+        "city": "Bogotá",
+        "country": "Colombia",
+        "latitude": 4.6560669,
+        "longitude": -74.0595918,
+        "phone": "+57 1 1234567",
+        "website": "https://www.lapalma.com",
+        "category": "Comida típica",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Pizza Italia",
+        "address": "Calle 14 #18-25",
+        "city": "Bogotá",
+        "country": "Colombia",
+        "latitude": 4.6584597,
+        "longitude": -74.0614656,
+        "phone": "+57 1 9876543",
+        "website": "https://www.pizzaitalia.com",
+        "category": "Pizza",
+        "rating": 4.2
+      }
+]
